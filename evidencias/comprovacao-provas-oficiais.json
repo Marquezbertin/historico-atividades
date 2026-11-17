@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "data": "15/11/2026",
+    "iso_data": "2026-11-15",
+    "ano": 2026,
+    "nome": "Corrida do Alvinegro 2026",
+    "cidade": "Piracicaba/SP",
+    "dist": "10K",
+    "dist_km": 10.0,
+    "terreno": "Asfalto",
+    "tempo": "00:52:39",
+    "tempo_bruto": "00:52:50",
+    "pace": "05:15",
+    "bib": "2211",
+    "cat": "M-40-44",
+    "pos_cat": "16º",
+    "pos_geral": "123º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-corrida-do-alvinegro-2026/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/GEYNPN"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Top 16 Categoria"
+  },
+  {
+    "id": 2,
+    "data": "08/11/2026",
+    "iso_data": "2026-11-08",
+    "ano": 2026,
+    "nome": "Corrida Pata da Onça",
+    "cidade": "Brotas/SP",
+    "dist": "6K",
+    "dist_km": 6.0,
+    "terreno": "Asfalto",
+    "tempo": "00:31:57",
+    "tempo_bruto": "00:31:57",
+    "pace": "05:20",
+    "bib": "6082",
+    "cat": "M4044",
+    "pos_cat": "9º",
+    "pos_geral": "74º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Apuração de Tempos",
+        "url": "https://www.apuracaodetempos.com.br/Resultados/corridapatadaonca2026/Resultados.html"
+      },
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-corrida-pata-da-onca/"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Top 10 Categoria (9º)"
+  },
+  {
+    "id": 3,
+    "data": "11/10/2026",
+    "iso_data": "2026-11-10",
+    "ano": 2026,
+    "nome": "GBC Trail Run – 8ª Edição – Indiana",
+    "cidade": "Botucatu/SP",
+    "dist": "6K",
+    "dist_km": 6.0,
+    "terreno": "Trail",
+    "tempo": "00:58:04",
+    "tempo_bruto": "00:58:04",
+    "pace": "09:40",
+    "bib": "785",
+    "cat": "4044",
+    "pos_cat": "3º (Pódio 🥉)",
+    "pos_geral": "23º",
+    "equipe": "SÃO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-gbc-trail-run-–-8-edicao-–-indiana/"
+      },
+      {
+        "nome": "A Tribuna Piracicaba",
+        "url": "https://atribunapiracicaba.com.br"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "🥉 PÓDIO 3º LUGAR CATEGORIA"
+  },
+  {
+    "id": 4,
+    "data": "03/10/2026",
+    "iso_data": "2026-10-03",
+    "ano": 2026,
+    "nome": "Corrida Outubro Rosa",
+    "cidade": "Indaiatuba/SP",
+    "dist": "10K",
+    "dist_km": 10.0,
+    "terreno": "Asfalto",
+    "tempo": "00:52:38",
+    "tempo_bruto": "00:52:49",
+    "pace": "05:16",
+    "bib": "10",
+    "cat": "M-40-49",
+    "pos_cat": "4º",
+    "pos_geral": "20º (15º Masc)",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Cronoserv Geral",
+        "url": "https://www.cronoserv.com.br/evento/3723?tab=result"
+      },
+      {
+        "nome": "Ficha do Atleta Cronoserv",
+        "url": "https://www.cronoserv.com.br/atleta/3723/3617228"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Top 4 Categoria / 15º Masc Geral"
+  },
+  {
+    "id": 5,
+    "data": "19/09/2026",
+    "iso_data": "2026-09-19",
+    "ano": 2026,
+    "nome": "TRIREX 2026 – 2ª Etapa Trail Run",
+    "cidade": "Brotas/SP",
+    "dist": "20K",
+    "dist_km": 20.0,
+    "terreno": "Trail",
+    "tempo": "02:05:27",
+    "tempo_bruto": "02:05:40",
+    "pace": "06:16",
+    "bib": "2278",
+    "cat": "M-40-49",
+    "pos_cat": "27º",
+    "pos_geral": "92º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-trirex-2026-2-etapa-trail-run/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/4NEYTN"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Maior Prova Oficial (20 km Trail)"
+  },
+  {
+    "id": 6,
+    "data": "13/09/2026",
+    "iso_data": "2026-09-13",
+    "ano": 2026,
+    "nome": "1ª Corrida e Caminhada DROGAL – Geração em Movimento",
+    "cidade": "Piracicaba/SP",
+    "dist": "10K",
+    "dist_km": 10.0,
+    "terreno": "Asfalto",
+    "tempo": "00:53:06",
+    "tempo_bruto": "00:53:12",
+    "pace": "05:18",
+    "bib": "1657",
+    "cat": "M-40-44",
+    "pos_cat": "8º",
+    "pos_geral": "77º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-corrida-e-caminhada-drogal-geracao-em-movimento-2026/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/1HM94NT"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/20168081492"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/20168081492",
+    "destaque": "Top 8 Categoria / Bate exato com Strava"
+  },
+  {
+    "id": 7,
+    "data": "23/08/2026",
+    "iso_data": "2026-08-23",
+    "ano": 2026,
+    "nome": "Circuito de Corridas Pague Menos – 6ª Etapa Piracicaba",
+    "cidade": "Piracicaba/SP",
+    "dist": "10K",
+    "dist_km": 10.0,
+    "terreno": "Asfalto",
+    "tempo": "00:51:01",
+    "tempo_bruto": "00:51:06",
+    "pace": "05:06",
+    "bib": "340",
+    "cat": "M-40-44",
+    "pos_cat": "27º",
+    "pos_geral": "153º",
+    "equipe": "EMA ATLETISMO SAO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-circuito-de-corridas-pague-menos-6-etapa-piracicaba-2026/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/15JTE4L"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "51 min nos 10K (Pace 5:06)"
+  },
+  {
+    "id": 8,
+    "data": "16/08/2026",
+    "iso_data": "2026-08-16",
+    "ano": 2026,
+    "nome": "Eco Run – Piracicaba 2026",
+    "cidade": "Piracicaba/SP",
+    "dist": "10K",
+    "dist_km": 10.0,
+    "terreno": "Asfalto",
+    "tempo": "00:50:15",
+    "tempo_bruto": "00:50:15",
+    "pace": "05:01",
+    "bib": "4072",
+    "cat": "M4044",
+    "pos_cat": "32º",
+    "pos_geral": "169º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-eco-run-piracicaba-2026/"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "⚡ RECORDE PESSOAL 10K (50:15 / 5:01 min/km)"
+  },
+  {
+    "id": 9,
+    "data": "02/08/2026",
+    "iso_data": "2026-08-02",
+    "ano": 2026,
+    "nome": "ITA Trail Run Analândia",
+    "cidade": "Analândia/SP",
+    "dist": "6K",
+    "dist_km": 6.0,
+    "terreno": "Trail",
+    "tempo": "00:44:15",
+    "tempo_bruto": "00:44:15",
+    "pace": "07:22",
+    "bib": "6015",
+    "cat": "35-44",
+    "pos_cat": "6º",
+    "pos_geral": "21º",
+    "equipe": "EMA - SÃO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-ita-trail-run-analandia/"
+      },
+      {
+        "nome": "Sincronia Crono",
+        "url": "https://sincroniacrono.com.br/ita-trail-run/"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Top 6 Categoria / 21º Geral"
+  },
+  {
+    "id": 10,
+    "data": "28/06/2026",
+    "iso_data": "2026-06-28",
+    "ano": 2026,
+    "nome": "15ª Corrida Turística de Piracicaba",
+    "cidade": "Piracicaba/SP",
+    "dist": "10K",
+    "dist_km": 10.0,
+    "terreno": "Asfalto",
+    "tempo": "00:55:27",
+    "tempo_bruto": "00:56:24",
+    "pace": "05:32",
+    "bib": "1205",
+    "cat": "M-40-44",
+    "pos_cat": "127º",
+    "pos_geral": "594º",
+    "equipe": "EMA ATLETISMO SAO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-15-corrida-turistica-de-piracicaba/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/1HAUGY"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Prova Tradicional 10K"
+  },
+  {
+    "id": 11,
+    "data": "31/05/2026",
+    "iso_data": "2026-05-31",
+    "ano": 2026,
+    "nome": "Open Séries – Etapa Relógio do Sol",
+    "cidade": "Águas de São Pedro/SP",
+    "dist": "5K",
+    "dist_km": 4.86,
+    "terreno": "Asfalto",
+    "tempo": "00:26:52",
+    "tempo_bruto": "00:26:52",
+    "pace": "05:31",
+    "bib": "—",
+    "cat": "M-40-44",
+    "pos_cat": "—",
+    "pos_geral": "—",
+    "equipe": "EMA",
+    "tipo": "strava_prova",
+    "fontes": [
+      {
+        "nome": "Strava Registro",
+        "url": "https://www.strava.com/activities/18727237790"
+      },
+      {
+        "nome": "VamuCorrer (Itaqueri Sports)",
+        "url": "https://vamucorrer.com.br/corrida/open-series-run-etapa-relogio-do-sol-2026-05-31"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/18727237790",
+    "destaque": "Prova Confirmada no Strava"
+  },
+  {
+    "id": 12,
+    "data": "19/04/2026",
+    "iso_data": "2026-04-19",
+    "ano": 2026,
+    "nome": "GBC Trail Run – 7ª Edição – Indiana",
+    "cidade": "Botucatu/SP",
+    "dist": "6K",
+    "dist_km": 6.0,
+    "terreno": "Trail",
+    "tempo": "00:41:28",
+    "tempo_bruto": "00:41:28",
+    "pace": "06:55",
+    "bib": "6187",
+    "cat": "4044",
+    "pos_cat": "5º",
+    "pos_geral": "58º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-gbc-trail-run-–-7-edicao-–-indiana/"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/18177303620"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/18177303620",
+    "destaque": "⚡ RECORDE PESSOAL 6K TRAIL (41:28 / Top 5 Cat)"
+  },
+  {
+    "id": 13,
+    "data": "04/04/2026",
+    "iso_data": "2026-04-04",
+    "ano": 2026,
+    "nome": "Run For Night Run 2026",
+    "cidade": "Piracicaba/SP",
+    "dist": "6K",
+    "dist_km": 6.0,
+    "terreno": "Asfalto",
+    "tempo": "00:32:20",
+    "tempo_bruto": "00:33:08",
+    "pace": "05:23",
+    "bib": "3019",
+    "cat": "M-40-44",
+    "pos_cat": "46º",
+    "pos_geral": "298º",
+    "equipe": "EMA ATLETISMO SAO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2026-run-for-night-run-2026/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/1TF645S"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/17980675489"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/17980675489",
+    "destaque": "Night Run 6K Piracicaba"
+  },
+  {
+    "id": 14,
+    "data": "15/03/2026",
+    "iso_data": "2026-03-15",
+    "ano": 2026,
+    "nome": "ITA Trail Run – Etapa Fazenda Santa Júlia",
+    "cidade": "São Pedro/SP",
+    "dist": "6K",
+    "dist_km": 6.0,
+    "terreno": "Trail",
+    "tempo": "00:46:15",
+    "tempo_bruto": "00:46:15",
+    "pace": "07:41",
+    "bib": "616",
+    "cat": "Masc",
+    "pos_cat": "—",
+    "pos_geral": "29º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Sincronia Crono (Oficial)",
+        "url": "https://sincroniacrono.com.br/ita-trail-run/"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/17762059452"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/17762059452",
+    "destaque": "Oficial Sincronia Crono (29º Geral)"
+  },
+  {
+    "id": 15,
+    "data": "28/02/2026",
+    "iso_data": "2026-02-28",
+    "ano": 2026,
+    "nome": "TRIREX Endurance 2026 – 1ª Etapa (Trail Run)",
+    "cidade": "Brotas/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Trail",
+    "tempo": "00:27:35",
+    "tempo_bruto": "00:27:40",
+    "pace": "05:31",
+    "bib": "5391",
+    "cat": "M-40-49",
+    "pos_cat": "14º",
+    "pos_geral": "67º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/LQCOXV"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/17550683304"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/17550683304",
+    "destaque": "Trail 5K Brotas"
+  },
+  {
+    "id": 16,
+    "data": "31/12/2025",
+    "iso_data": "2025-12-31",
+    "ano": 2025,
+    "nome": "69ª Corrida da Virada",
+    "cidade": "Brotas/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Asfalto",
+    "tempo": "00:24:48",
+    "tempo_bruto": "00:24:48",
+    "pace": "04:57",
+    "bib": "5019",
+    "cat": "M4044",
+    "pos_cat": "6º",
+    "pos_geral": "49º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2025-69corrida-da-virada/"
+      },
+      {
+        "nome": "Global Cronometragem",
+        "url": "https://globalcronometragem.com.br/resultado.php?id=447"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/16896019001"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/16896019001",
+    "destaque": "Sub-25 min nos 5K (Top 6 Cat)"
+  },
+  {
+    "id": 17,
+    "data": "14/12/2025",
+    "iso_data": "2025-12-14",
+    "ano": 2025,
+    "nome": "Desafio São Pedro Run",
+    "cidade": "São Pedro/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Asfalto",
+    "tempo": "00:23:31",
+    "tempo_bruto": "00:23:39",
+    "pace": "04:42",
+    "bib": "4045",
+    "cat": "40-49MAS",
+    "pos_cat": "6º",
+    "pos_geral": "30º (de 259)",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "RaveliSports (.clax)",
+        "url": "https://ravelisports.com.br/resultados/g-live.html?f=eventos%2F2025%2FCORRIDA-SAO-PEDRO%2FCORRIDA.clax"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/16738662412"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/16738662412",
+    "destaque": "⚡ RECORDE HISTÓRICO 5K (23:31 / Pace 4:42 / 30º Geral)"
+  },
+  {
+    "id": 18,
+    "data": "30/11/2025",
+    "iso_data": "2025-11-30",
+    "ano": 2025,
+    "nome": "1ª Vamos Correr Capivari",
+    "cidade": "Capivari/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Asfalto",
+    "tempo": "00:26:52",
+    "tempo_bruto": "00:26:52",
+    "pace": "05:22",
+    "bib": "89",
+    "cat": "14-99MAS",
+    "pos_cat": "87º",
+    "pos_geral": "92º",
+    "equipe": "EMA – PREFEITURA MUNICIPAL DE SAO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2025-vamos-correr-capivari/"
+      },
+      {
+        "nome": "RaveliSports",
+        "url": "https://ravelisports.com.br"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/16607888000"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/16607888000",
+    "destaque": "5K Capivari"
+  },
+  {
+    "id": 19,
+    "data": "29/11/2025",
+    "iso_data": "2025-11-29",
+    "ano": 2025,
+    "nome": "Ultra Trail Ipeúna 5k",
+    "cidade": "Ipeúna/SP",
+    "dist": "5K",
+    "dist_km": 5.4,
+    "terreno": "Trail",
+    "tempo": "00:29:04",
+    "tempo_bruto": "00:29:04",
+    "pace": "05:23",
+    "bib": "—",
+    "cat": "M-40-44",
+    "pos_cat": "—",
+    "pos_geral": "—",
+    "equipe": "EMA",
+    "tipo": "strava_prova",
+    "fontes": [
+      {
+        "nome": "Strava Registro Oficial",
+        "url": "https://www.strava.com/activities/16598206733"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/16598206733",
+    "destaque": "Trail Ipeúna (Strava)"
+  },
+  {
+    "id": 20,
+    "data": "09/11/2025",
+    "iso_data": "2025-11-09",
+    "ano": 2025,
+    "nome": "11ª Corrida São Vicente do Alvinegro",
+    "cidade": "Piracicaba/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Asfalto",
+    "tempo": "00:26:47",
+    "tempo_bruto": "00:26:57",
+    "pace": "05:21",
+    "bib": "2130",
+    "cat": "M-40-44",
+    "pos_cat": "—",
+    "pos_geral": "228º",
+    "equipe": "EMA – PREFEITURA MUNICIPAL DE SAO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2025-corrida-sao-vicente-do-alvinegro-2025/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/EG8I6J"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/16403184730"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/16403184730",
+    "destaque": "Alvinegro XV 5K"
+  },
+  {
+    "id": 21,
+    "data": "18/10/2025",
+    "iso_data": "2025-10-18",
+    "ano": 2025,
+    "nome": "9ª Corrida São Vicente Uaçai Night Run",
+    "cidade": "Americana/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Asfalto",
+    "tempo": "00:25:31",
+    "tempo_bruto": "00:25:53",
+    "pace": "05:06",
+    "bib": "6631",
+    "cat": "M-40-44",
+    "pos_cat": "—",
+    "pos_geral": "297º (Chelso) / 317º (RR)",
+    "equipe": "EMA – PREFEITURA MUNICIPAL DE SAO PEDRO",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2025-corrida-sao-vicente-uacai-night-run/"
+      },
+      {
+        "nome": "Chelso Sports",
+        "url": "https://chelso.com.br/resultados/#/event/GN7ULX"
+      },
+      {
+        "nome": "Strava Atividade",
+        "url": "https://www.strava.com/activities/16185127708"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/16185127708",
+    "destaque": "25 min nos 5K (Pace 5:06)"
+  },
+  {
+    "id": 22,
+    "data": "04/04/2025",
+    "iso_data": "2025-04-04",
+    "ano": 2025,
+    "nome": "Nightrun ADRS – São Pedro",
+    "cidade": "São Pedro/SP",
+    "dist": "5.7K",
+    "dist_km": 5.67,
+    "terreno": "Trail/Misto",
+    "tempo": "00:37:32",
+    "tempo_bruto": "00:37:32",
+    "pace": "06:35",
+    "bib": "—",
+    "cat": "M-40-44",
+    "pos_cat": "—",
+    "pos_geral": "—",
+    "equipe": "EMA",
+    "tipo": "strava_prova",
+    "fontes": [
+      {
+        "nome": "Strava Registro",
+        "url": "https://www.strava.com/activities/14082269480"
+      }
+    ],
+    "strava_url": "https://www.strava.com/activities/14082269480",
+    "destaque": "Trail Nightrun Clube ADRS"
+  },
+  {
+    "id": 23,
+    "data": "10/11/2024",
+    "iso_data": "2024-11-10",
+    "ano": 2024,
+    "nome": "Corrida do Alvinegro 2024",
+    "cidade": "Piracicaba/SP",
+    "dist": "5K",
+    "dist_km": 5.0,
+    "terreno": "Asfalto",
+    "tempo": "00:29:33",
+    "tempo_bruto": "00:29:33",
+    "pace": "05:54",
+    "bib": "2427",
+    "cat": "M4044",
+    "pos_cat": "—",
+    "pos_geral": "517º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "Open Results",
+        "url": "https://openresults.run/evento/2024-corrida-do-alvinegro/"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Primeira Prova Oficial Registrada"
+  }
+]
