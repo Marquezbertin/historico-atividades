@@ -1,6 +1,38 @@
 [
   {
     "id": 1,
+    "data": "21/11/2026",
+    "iso_data": "2026-11-21",
+    "ano": 2026,
+    "nome": "UTI – Ultra Trail Ipeúna 2026",
+    "cidade": "Ipeúna/SP",
+    "dist": "11K",
+    "dist_km": 11.0,
+    "terreno": "Trail",
+    "tempo": "01:16:30",
+    "tempo_bruto": "01:16:30",
+    "pace": "06:57",
+    "bib": "1180",
+    "cat": "11K 40a49 MAS",
+    "pos_cat": "4º",
+    "pos_geral": "19º",
+    "equipe": "EMA",
+    "tipo": "oficial",
+    "fontes": [
+      {
+        "nome": "GPS Control (Categoria)",
+        "url": "https://www.gpscontrolcrono.com.br/resultado/result-R.php?evento=549&categ=11K%2040a49%20MAS"
+      },
+      {
+        "nome": "GPS Control (Geral Masc)",
+        "url": "https://www.gpscontrolcrono.com.br/resultado/result-G.php?evento=549&percurso=11K&sexo=M"
+      }
+    ],
+    "strava_url": "",
+    "destaque": "Top 4 Categoria (4º)"
+  },
+  {
+    "id": 2,
     "data": "15/11/2026",
     "iso_data": "2026-11-15",
     "ano": 2026,
@@ -32,7 +64,7 @@
     "destaque": "Top 16 Categoria"
   },
   {
-    "id": 2,
+    "id": 3,
     "data": "08/11/2026",
     "iso_data": "2026-11-08",
     "ano": 2026,
@@ -64,7 +96,7 @@
     "destaque": "Top 10 Categoria (9º)"
   },
   {
-    "id": 3,
+    "id": 4,
     "data": "11/10/2026",
     "iso_data": "2026-11-10",
     "ano": 2026,
@@ -96,7 +128,7 @@
     "destaque": "🥉 PÓDIO 3º LUGAR CATEGORIA"
   },
   {
-    "id": 4,
+    "id": 5,
     "data": "03/10/2026",
     "iso_data": "2026-10-03",
     "ano": 2026,
@@ -128,7 +160,7 @@
     "destaque": "Top 4 Categoria / 15º Masc Geral"
   },
   {
-    "id": 5,
+    "id": 6,
     "data": "19/09/2026",
     "iso_data": "2026-09-19",
     "ano": 2026,
@@ -160,7 +192,7 @@
     "destaque": "Maior Prova Oficial (20 km Trail)"
   },
   {
-    "id": 6,
+    "id": 7,
     "data": "13/09/2026",
     "iso_data": "2026-09-13",
     "ano": 2026,
@@ -196,7 +228,7 @@
     "destaque": "Top 8 Categoria / Bate exato com Strava"
   },
   {
-    "id": 7,
+    "id": 8,
     "data": "23/08/2026",
     "iso_data": "2026-08-23",
     "ano": 2026,
@@ -228,7 +260,7 @@
     "destaque": "51 min nos 10K (Pace 5:06)"
   },
   {
-    "id": 8,
+    "id": 9,
     "data": "16/08/2026",
     "iso_data": "2026-08-16",
     "ano": 2026,
@@ -256,7 +288,7 @@
     "destaque": "⚡ RECORDE PESSOAL 10K (50:15 / 5:01 min/km)"
   },
   {
-    "id": 9,
+    "id": 10,
     "data": "02/08/2026",
     "iso_data": "2026-08-02",
     "ano": 2026,
@@ -288,7 +320,7 @@
     "destaque": "Top 6 Categoria / 21º Geral"
   },
   {
-    "id": 10,
+    "id": 11,
     "data": "28/06/2026",
     "iso_data": "2026-06-28",
     "ano": 2026,
@@ -320,7 +352,7 @@
     "destaque": "Prova Tradicional 10K"
   },
   {
-    "id": 11,
+    "id": 12,
     "data": "31/05/2026",
     "iso_data": "2026-05-31",
     "ano": 2026,
@@ -352,7 +384,7 @@
     "destaque": "Prova Confirmada no Strava"
   },
   {
-    "id": 12,
+    "id": 13,
     "data": "19/04/2026",
     "iso_data": "2026-04-19",
     "ano": 2026,
@@ -384,7 +416,7 @@
     "destaque": "⚡ RECORDE PESSOAL 6K TRAIL (41:28 / Top 5 Cat)"
   },
   {
-    "id": 13,
+    "id": 14,
     "data": "04/04/2026",
     "iso_data": "2026-04-04",
     "ano": 2026,
@@ -420,7 +452,7 @@
     "destaque": "Night Run 6K Piracicaba"
   },
   {
-    "id": 14,
+    "id": 15,
     "data": "15/03/2026",
     "iso_data": "2026-03-15",
     "ano": 2026,
@@ -452,7 +484,7 @@
     "destaque": "Oficial Sincronia Crono (29º Geral)"
   },
   {
-    "id": 15,
+    "id": 16,
     "data": "28/02/2026",
     "iso_data": "2026-02-28",
     "ano": 2026,
@@ -484,7 +516,7 @@
     "destaque": "Trail 5K Brotas"
   },
   {
-    "id": 16,
+    "id": 17,
     "data": "31/12/2025",
     "iso_data": "2025-12-31",
     "ano": 2025,
@@ -520,7 +552,7 @@
     "destaque": "Sub-25 min nos 5K (Top 6 Cat)"
   },
   {
-    "id": 17,
+    "id": 18,
     "data": "14/12/2025",
     "iso_data": "2025-12-14",
     "ano": 2025,
@@ -552,7 +584,7 @@
     "destaque": "⚡ RECORDE HISTÓRICO 5K (23:31 / Pace 4:42 / 30º Geral)"
   },
   {
-    "id": 18,
+    "id": 19,
     "data": "30/11/2025",
     "iso_data": "2025-11-30",
     "ano": 2025,
@@ -588,7 +620,7 @@
     "destaque": "5K Capivari"
   },
   {
-    "id": 19,
+    "id": 20,
     "data": "29/11/2025",
     "iso_data": "2025-11-29",
     "ano": 2025,
@@ -616,7 +648,7 @@
     "destaque": "Trail Ipeúna (Strava)"
   },
   {
-    "id": 20,
+    "id": 21,
     "data": "09/11/2025",
     "iso_data": "2025-11-09",
     "ano": 2025,
@@ -652,7 +684,7 @@
     "destaque": "Alvinegro XV 5K"
   },
   {
-    "id": 21,
+    "id": 22,
     "data": "18/10/2025",
     "iso_data": "2025-10-18",
     "ano": 2025,
@@ -688,7 +720,7 @@
     "destaque": "25 min nos 5K (Pace 5:06)"
   },
   {
-    "id": 22,
+    "id": 23,
     "data": "04/04/2025",
     "iso_data": "2025-04-04",
     "ano": 2025,
@@ -716,7 +748,7 @@
     "destaque": "Trail Nightrun Clube ADRS"
   },
   {
-    "id": 23,
+    "id": 24,
     "data": "10/11/2024",
     "iso_data": "2024-11-10",
     "ano": 2024,

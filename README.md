@@ -10,7 +10,7 @@
 - **Categoria:** M 40-44 (Nasc. 25/03/1984)
 - **Equipe:** EMA — Equipe Municipal de Atletismo de São Pedro / Prefeitura de São Pedro
 - **Cidade:** São Pedro / SP
-- **Total de Provas Auditadas:** **23 provas** (100% comprovadas com chips de cronometragem eletrônica, rankings oficiais e Strava)
+- **Total de Provas Auditadas:** **24 provas** (100% comprovadas com chips de cronometragem eletrônica, rankings oficiais e Strava)
 - **Total de Atividades no Strava:** **235 atividades** (734,7 km de corrida / 870,1 km no total)
 
 ### 🏆 Recordes Pessoais Oficiais (PRs)
@@ -18,6 +18,7 @@
 - **6 km (Asfalto):** **31:57** (Pace 5:20 /km) — *Corrida Pata da Onça Brotas (08/11/2026)* — 74º Geral, 9º Categoria
 - **6 km (Trail Run):** **41:28** (Pace 6:55 /km) — *GBC Trail Run 7ª Edição Botucatu (19/04/2026)* — 58º Geral, 5º Categoria
 - **10 km (Asfalto):** **50:15** (Pace 5:01 /km) — *Eco Run Piracicaba 2026 (16/08/2026)* — 169º Geral, 32º Categoria
+- **11 km (Trail Run):** **01:16:30** (Pace 6:57 /km) — *UTI Ultra Trail Ipeúna (21/11/2026)* — 19º Geral Masc, 4º Categoria (Top 4)
 - **20 km (Trail Run):** **02:05:27** (Pace 6:16 /km) — *TRIREX Endurance 2ª Etapa Brotas (19/09/2026)* — 92º Geral, 27º Categoria
 - **Pódio de Destaque:** 🥉 **3º Lugar na Categoria 40-44** no *GBC Trail Run 8ª Edição Indiana (11/10/2026)*
 
@@ -31,9 +32,9 @@ O projeto conta com um **dashboard esportivo interativo moderno**, responsivo pa
 - Arquivo espelho: `historico-bruno-bertin-marquez.html`
 
 ### Funcionalidades do Site:
-1. **Cards das 23 Provas Oficiais** com chips de ritmo, tempo líquido, colocação geral e na categoria, BIB e botões diretos para os resultados oficiais.
+1. **Cards das 24 Provas Oficiais** com chips de ritmo, tempo líquido, colocação geral e na categoria, BIB e botões diretos para os resultados oficiais.
 2. **Alternador de Visualização:** Modo Cards Visuais vs Modo Tabela Completa.
-3. **Filtros Dinâmicos:** Busca em tempo real por nome/cidade, filtro por ano (2024, 2025, 2026), distância (5K, 6K, 10K, 20K) e terreno (Asfalto vs Trilha).
+3. **Filtros Dinâmicos:** Busca em tempo real por nome/cidade, filtro por ano (2024, 2025, 2026), distância (5K, 6K, 10K, 11K, 20K) e terreno (Asfalto vs Trilha).
 4. **Feed do Strava (235 Atividades):** Tabela completa com filtros por esporte e identificação visual de quais atividades foram provas oficiais.
 5. **Gráfico de Volume Anual:** Comparativo de quilometragem percorrida mês a mês e ano a ano.
 

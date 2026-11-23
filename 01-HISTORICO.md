@@ -6,6 +6,7 @@ Legenda de fontes:
 - **CRN** = Cronoserv
 - **GCM** = Global Cronometragem
 - **APT** = Apuração de Tempos
+- **GPS** = GPS Control Cronometragem (`https://www.gpscontrolcrono.com.br/`)
 - **STR** = Strava (registro próprio do atleta, `dados/strava-atividades.csv`)
 
 ---
@@ -47,6 +48,7 @@ Detalhes adicionais da Virada (GCM): 49º geral, 6º/14 na cat., tempo bruto 00:
 | 21 | 29/11/2025 | **Ultra Trail Ipeuna 5k** | Ipeúna/SP | 5,40 km | 29:04 (Strava) | sem fonte oficial localizada | STR |
 | 22 | **15/03/2026** | **ITA Trail Run – Etapa Fazenda Santa Júlia** | São Pedro/SP | 6K | **00:46:15** — pace 07:41 | 29º geral, BIB 616, equipe EMA | **SINCRONIA CRONO (Oficial)** + STR |
 | 23 | 31/05/2026 | **Open Séries – Etapa Relógio do Sol** | Águas de São Pedro/SP | 5K | 26:52 (Strava) | evento confirmado (Itaqueri Sports, 5 km) sem resultado público | STR |
+| 24 | **21/11/2026** | **UTI – Ultra Trail Ipeúna 2026** | Ipeúna/SP | 11K | **01:16:30** — pace 06:57 | 19º geral masc, 4º cat 11K 40a49 MAS, BIB 1180 | **GPS CONTROL (Oficial)** |
 
 Evidências:
 - Desafio São Pedro: `https://ravelisports.com.br/resultados/g-live.html?f=eventos%2F2025%2FCORRIDA-SAO-PEDRO%2FCORRIDA.clax`
@@ -54,6 +56,7 @@ Evidências:
 - Pata da Onça: `https://www.apuracaodetempos.com.br/Resultados/corridapatadaonca2026/Resultados.html` +
   Open Results `https://openresults.run/evento/2026-corrida-pata-da-onca/`
 - **TRIREX 1ª etapa (oficial):** `https://chelso.com.br/resultados/#/event/LQCOXV` (dados em `dados/chelso-resultados.json`)
+- **UTI – Ultra Trail Ipeúna 2026 (oficial):** `https://www.gpscontrolcrono.com.br/` (evento 549, 11K Trail, tempo 01:16:30.437, 4º cat 11K 40a49 MAS, 19º geral masc, BIB 1180, categoria: `https://www.gpscontrolcrono.com.br/resultado/result-R.php?evento=549&categ=11K%2040a49%20MAS`, geral: `https://www.gpscontrolcrono.com.br/resultado/result-G.php?evento=549&percurso=11K&sexo=M`)
 - **ITA Trail Run Fazenda Santa Júlia (oficial):** `https://sincroniacrono.com.br/ita-trail-run/` (pos 29º, tempo 00:46:15, BIB 616, EMA) + Strava `https://www.strava.com/activities/17762059452`
 - Nightrun ADRS / Ultra Trail Ipeúna / Open Séries: links diretos no Strava e no portal web:
   - ADRS (04/04/2025): `https://www.strava.com/activities/14082269480`
@@ -130,6 +133,7 @@ oficial publicado para essas 4.
 | 6K | 00:31:57 | 5:20/km | Pata da Onça, 08/11/2026 |
 | 6K (trail) | 00:41:28 | 6:55/km | GBC Trail Run 7ª ed., 19/04/2026 |
 | 10K | **00:50:15** | 5:01/km | Eco Run Piracicaba, 16/08/2026 |
+| 11K (trail) | **01:16:30** | 6:57/km | UTI Ultra Trail Ipeúna 2026, 21/11/2026 (4º cat / 19º geral masc) |
 | 20K | 02:05:27 | 6:16/km | TRIREX 2ª etapa, 19/09/2026 |
 
 ---

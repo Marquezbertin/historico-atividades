@@ -30,9 +30,9 @@ gerar um **arquivo HTML** navegável que sirva de comprovação activity por act
 | # | Entregável | Status |
 |---|------------|--------|
 | 1 | Pasta do projeto com tudo registrado | ✅ Concluído |
-| 2 | Lista das provas oficiais com evidência | ✅ Concluído (23 provas registradas e auditadas) |
+| 2 | Lista das provas oficiais com evidência | ✅ Concluído (24 provas registradas e auditadas) |
 | 3 | Treinos Strava (200+) importados em lote | ✅ Concluído (235 atividades, JSON/CSV em `dados/`) |
-| 4 | Varredura restante da internet (2021–2026) | ✅ Concluído (Open Results, Chelso, Sincronia, Raveli, Cronoserv, Global, Apuração) |
+| 4 | Varredura restante da internet (2021–2026) | ✅ Concluído (Open Results, Chelso, Sincronia, Raveli, Cronoserv, Global, Apuração, GPS Control) |
 | 5 | **HTML final com evidência de cada atividade** | ✅ Concluído (`index.html` e `historico-bruno-bertin-marquez.html` prontos para GitHub Pages) |
 
 ## 4. Fontes de dados
@@ -53,6 +53,7 @@ gerar um **arquivo HTML** navegável que sirva de comprovação activity por act
 - **Cronoserv** — cronometragem de Indaiatuba/SP.
 - **Global Cronometragem** — Corrida da Virada (Brotas).
 - **Apuração de Tempos** — Corrida Pata da Onça (Brotas).
+- **GPS Control Cronometragem** — UTI Ultra Trail Ipeúna 2026 (Ipeúna/SP, evento 549).
 - Buscas web genéricas por nome + varredura de notícias regionais.
 
 ### 4.3 Notícias / redes

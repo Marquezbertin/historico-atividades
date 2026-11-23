@@ -44,6 +44,8 @@ Atualizado em: 17/11/2026
       da 69ª Corrida da Virada (`resultado.php?id=447`)
 - [x] **Apuração de Tempos** — Corrida Pata da Onça 2026 (novo!): resultados em
       `https://www.apuracaodetempos.com.br/Resultados/corridapatadaonca2026/Resultados.html`
+- [x] **GPS Control Cronometragem** — **UTI – Ultra Trail Ipeúna 2026 (21/11/2026)** (novo!):
+      achado "BRUNO BERTIN", BIB 1180, percurso 11K Trail, tempo 01:16:30.437, 4º colocado cat 11K 40a49 MAS, 19º geral masc (`https://www.gpscontrolcrono.com.br/`)
 - [x] Buscas web por nome completo / "Bertin Marquez" / "Bruno Bertin" + cidades
       (Piracicaba, São Pedro, Brotas, Americana, Capivari, Indaiatuba, Botucatu)
 - [x] **A Tribuna Piracicaba** — 2 matérias úteis (pódio do Bruno no GBC 6K, 14/10/2026)
